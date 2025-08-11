@@ -1,0 +1,463 @@
+{
+  "Login": {
+    "button1": "INICIAR SESIÓN",
+    "button2": "REGISTRARSE"
+  },
+  "Register": {
+    "field1": "Nombre",
+    "field2": "Apellidos",
+    "field3": "Correo electrónico",
+    "field4": "Contraseña",
+    "field5": "Número de teléfono móvil",
+    "field6": "Lugar de procedencia",
+    "check1": "Acepto recibir el boletín y promociones de Node Garraf",
+    "check21": "He leído y acepto la",
+    "check22": "Política de Privacidad",
+    "button1": "REGISTRARSE",
+    "button2": "YA ESTOY REGISTRADO"
+  },
+  "Dashboard": {
+    "card1": "Mapa",
+    "card2": "Perfil",
+    "card3": "Descubrimientos",
+    "card4": "Saber",
+    "card5": "Preguntas frecuentes",
+    "card6": "Recomendamos"
+  },
+  "Map": {
+    "title1": "PRIMERA PARADA",
+    "title2": "Los secretos de las vías romanas",
+    "button": "JUGAR"
+  },
+  "Progress": {
+    "title1": "Hola, Albert",
+    "title2": "NIVEL ROCA",
+    "title3": "Total de puntos",
+    "button1": "PROGRESO",
+    "title4": "Recompensas del Festival",
+    "title5": "Puntos",
+    "title6": "Completado",
+    "button2": "VER"
+  },
+  "Level": {
+    "title1": "Hola, Albert",
+    "title2": "NIVEL MAGMA",
+    "title3": "Total de puntos",
+    "button": "NIVEL",
+    "row1": "NIVEL VOLCÁN",
+    "row2": "NIVEL MAGMA",
+    "row3": "NIVEL ROCA",
+    "rowtitle": "Gana 1000 puntos"
+  },
+  "StartQuiz": {
+    "title": "GRAN MAGMA",
+    "description": "Ahora ha llegado el momento de comprobar vuestra experiencia sobre el Imperio Romano contestando la siguiente pregunta.",
+    "button1": "EMPEZAR"
+  },
+  "Quiz": {
+    "title": "¿Cuál de estas frases NO es cierta?",
+    "option1": "Los romanos crearon largas vías pavimentadas",
+    "option2": "Los romanos construyeron acueductos",
+    "option3": "Los romanos crearon 2 cohetes para ir a la luna",
+    "option4": "Los romanos no construyeron acueductos"
+  },
+  "DidYouKnow": {
+    "title": "¿Sabías que?",
+    "description": "Cras eget metus vel risus molestie vehicula. Fusce faucibus nulla libero, ut varius velit cursus ac. Phasellus pellentesque tortor lacus, sit amet ullamcorper augue elementum vitae. Nullam varius luctus dolor in commodo. Donec ut augue vitae justo tristique consequat. Nam non efficitur magna, sit amet venenatis nisl.",
+    "button": "VAMOS"
+  },
+  "Classification": {
+    "title": "CLASIFICACIÓN",
+    "tablehead1": "1. Nombre",
+    "tablehead2": "2. Apellidos",
+    "tablehead3": "3. Puntos",
+    "row1data1": "Craig",
+    "row1data2": "Bloemsma",
+    "row1data3": "1000",
+    "row2data1": "Albert",
+    "row2data2": "Mozé Fàbregasx",
+    "row3data3": "654"
+  },
+  "FAQS": {
+    "title": "FAQ'S",
+    "button1": "AR FAQ",
+    "button2": "GAME FAQ",
+    "button3": "MAP FAQ",
+    "ar": {
+      "q1": "¿Qué es la realidad aumentada (RA) y cómo la usamos aquí?",
+      "a1": "La realidad aumentada es una tecnología que permite superponer elementos digitales, como personajes, objetos o escenas, en el entorno real a través de la cámara de tu móvil. En este juego, se usa para ver a Roc, recolectar rocas volcánicas y descubrir hallazgos.",
+      "q2": "¿Necesito descargar alguna aplicación?",
+      "a2": "No. Esta es una aplicación web: solo necesitas acceder al enlace a través de tu navegador (Chrome, Safari...). No es necesario descargar nada.",
+      "q3": "¿Es mi teléfono compatible con RA?",
+      "a3": "Funciona con la mayoría de los dispositivos recientes que tengan cámara y un navegador actualizado. Debes permitir el acceso a la cámara. Si tienes problemas, prueba con otro navegador o dispositivo.",
+      "q4": "No veo nada cuando abro la cámara. ¿Qué puedo hacer?",
+      "a4": "Asegúrate de que:\n\n● Has llegado físicamente al punto correcto en el mapa (geolocalización).\n● Has otorgado acceso a la cámara.\n● Hay suficiente luz alrededor.\nSi aún no funciona, cierra y vuelve a abrir el navegador.",
+      "q5": "¿Se requiere conexión a internet para usar RA?",
+      "a5": "Sí. La RA se carga en el navegador, por lo que necesitas datos móviles o Wi-Fi durante la experiencia.",
+      "q6": "¿Es seguro usar RA mientras camino?",
+      "a6": "Sí, pero mantente atento a tu entorno mientras usas la cámara. No camines mirando tu teléfono y siempre presta atención a tu alrededor.",
+      "q7": "¿Puedo tomar fotos o videos con RA?",
+      "a7": "¡Sí! Puedes tomar capturas de pantalla y grabar videos con Roc y las diferentes experiencias de RA y compartirlas. Es una excelente manera de recordar y compartir tu aventura."
+    },
+    "game": {
+      "q1": "¿Cuál es el objetivo del juego?",
+      "a1": "El objetivo es descubrir los secretos ocultos del acantilado de basalto completando desafíos de RA. En el camino, recolectarás rocas volcánicas y obtendrás hallazgos únicos.",
+      "q2": "¿Cuál es la diferencia entre una roca y un hallazgo?",
+      "a2": "Las rocas volcánicas son elementos naturales que recolectas a través de desafíos interactivos de RA.\nLos hallazgos son objetos culturales o simbólicos que obtienes al completar los desafíos y cuestionarios.",
+      "q3": "¿Cómo recolecto rocas y hallazgos?",
+      "a3": "Debes llegar físicamente a los puntos geolocalizados en el mapa. Allí, Roc contará una historia y te dará un desafío interactivo y una pregunta. Si los completas, recibirás las rocas y el hallazgo de ese punto.",
+      "q4": "¿Qué pasa si fallo un desafío o una pregunta?",
+      "a4": "Los desafíos interactivos se superan recolectando un cierto número de rocas volcánicas con RA. En todos los casos...",
+      "q5": "¿Necesito registrarme para jugar?",
+      "a5": "Sí, es necesario registrarse para participar en el juego, acceder a los puntos de RA y desbloquear rocas y hallazgos. Esto nos permite guardar tu progreso, personalizar la experiencia y asegurar que el sistema funcione correctamente. El registro es rápido y solo se hace una vez.",
+      "q6": "¿Puedo jugar en grupo o con mi familia?",
+      "a6": "¡Sí! El juego está diseñado para jugarse en grupo: con amigos, familia o en la escuela. Solo necesitas un teléfono o tableta por equipo y el deseo de explorar juntos.",
+      "q7": "¿Cuánto tiempo dura el juego?",
+      "a7": "Depende de tu ritmo. La ruta completa suele tomar entre 60 y 90 minutos, pero puedes hacerla de una vez o dividirla en varias ocasiones."
+    },
+    "map": {
+      "q1": "¿Cómo funciona el mapa del juego?",
+      "a1": "El mapa interactivo muestra puntos geolocalizados a lo largo de la ruta. El contenido de RA solo se desbloquea cuando llegas físicamente a un punto.",
+      "q2": "¿Es necesaria la geolocalización en mi teléfono?",
+      "a2": "Sí. Sin la geolocalización activada, no puedes jugar. El sistema necesita saber tu ubicación para verificar que has llegado a cada punto. Recomendamos activar la ubicación antes de comenzar.\n\nCómo activar la geolocalización:\n\n**En Android:**\n1. Abre la configuración de tu dispositivo.\n2. Ve a Ubicación.\n3. Activa la Ubicación.\n4. Asegúrate de que tu navegador tenga permisos de ubicación:\n - Configuración > Aplicaciones > [Nombre del navegador] > Permisos > Ubicación > Permitir siempre o Mientras se usa.\n\n**En iPhone:**\n1. Abre Configuración.\n2. Ve a Privacidad y Seguridad > Servicios de Ubicación.\n3. Activa los Servicios de Ubicación.\n4. Verifica la configuración de tu navegador (Safari o Chrome).\n5. Asegúrate de que la ubicación esté permitida durante el uso.",
+      "q3": "¿Qué pasa si el mapa no me detecta correctamente?",
+      "a3": "● Asegúrate de que tu ubicación esté activada (ver pasos anteriores).\n● Actualiza la página de tu navegador.",
+      "q4": "¿Se requiere conexión a internet para usar el mapa?",
+      "a4": "Sí. La aplicación web necesita una conexión activa para mostrar el mapa y verificar tu ubicación. Sin embargo, el uso de datos es muy bajo.",
+      "q5": "El mapa dice que no estoy en el lugar correcto, pero sí lo estoy. ¿Qué puedo hacer?",
+      "a5": "● Muévete ligeramente por la zona: a veces el GPS necesita unos segundos.\n● Asegúrate de no estar bajo una estructura o en interiores.\n● Verifica que tengas una buena señal de GPS o móvil.",
+      "q6": "¿Puedo hacer la ruta en cualquier orden?",
+      "a6": "No. La ruta es lineal. Debes seguir el orden establecido de los puntos, ya que cada desafío y hallazgo depende del punto anterior. El mapa solo mostrará el siguiente punto desbloqueado; no puedes avanzar sin completar el actual."
+    }
+  },
+  "Amics": {
+    "title": "DESCUBRIMIENTOS",
+    "description": "Sed nec risus risus. Suspendisse lobortis risus eu velit gravida ornare at ornare ante. Nam malesuada consequat leo et facilisis. Nunc et quam euismod, auctor nulla porta, pretium lacus."
+  },
+  "Head": {
+    "title1": "Menú",
+    "title2": "Acceder"
+  },
+  "Volcano1Quiz1": {
+    "title": "¿Qué aparece en el escudo de armas del pueblo?",
+    "option1": "Un castillo",
+    "option2": "Una iglesia",
+    "option3": "Un volcán",
+    "option4": "Una espada"
+  },
+  "Volcano1Quiz2": {
+    "title": "¿A qué santo está dedicada la torre?",
+    "option1": "San Roque",
+    "option2": "San Pedro",
+    "option3": "San Juan",
+    "option4": "San Pablo"
+  },
+  "Volcano1Quiz3": {
+    "title": "¿Qué otro nombre tiene este lugar?",
+    "option1": "Plaza de San Roque",
+    "option2": "Plaza del Centro",
+    "option3": "Plaza del Medio",
+    "option4": "Plaza de San Pedro"
+  },
+  "Volcano1Quiz4": {
+    "title": "¿Qué inscripción hay encima del santo?",
+    "option1": "1885",
+    "option2": "1890",
+    "option3": "1900",
+    "option4": "1901"
+  },
+  "Volcano2Quiz1": {
+    "title": "¿Qué roca se extrajo de la cantera?",
+    "option1": "Basalto",
+    "option2": "Conglomerados",
+    "option3": "Arenisca",
+    "option4": "Granito"
+  },
+  "Volcano2Quiz2": {
+    "title": "¿De dónde proviene la roca que vemos aquí?",
+    "option1": "Un flujo de lava",
+    "option2": "El río",
+    "option3": "Un meteorito",
+    "option4": "Un deslizamiento de tierra"
+  },
+  "Volcano2Quiz3": {
+    "title": "¿Cuál es la profesión que trabaja la piedra?",
+    "option1": "Cantero",
+    "option2": "Albañil",
+    "option3": "Carpintero",
+    "option4": "Arquitecto"
+  },
+  "Volcano2Quiz4": {
+    "title": "¿Qué forma tiene el flujo de lava frente a nosotros?",
+    "option1": "Columna",
+    "option2": "Triángulo",
+    "option3": "Redonda",
+    "option4": "Cuadrada"
+  },
+  "Volcano2Quiz5": {
+    "title": "¿De qué color es el basalto?",
+    "option1": "Negro o gris",
+    "option2": "Rojizo",
+    "option3": "Amarillento",
+    "option4": "Blanco"
+  },
+  "Volcano3Quiz1": {
+    "title": "¿Cómo se llama la plaza donde estamos?",
+    "option1": "Plaza de los Gigantes",
+    "option2": "Llano del Medio",
+    "option3": "Plaza Principal",
+    "option4": "Plaza del Ayuntamiento"
+  },
+  "Volcano3Quiz2": {
+    "title": "¿Cómo se llaman los gigantes de Castellfollit?",
+    "option1": "Roc y Bárbara",
+    "option2": "Gigante y Giganta",
+    "option3": "Jordi y María",
+    "option4": "Pep y Pepa"
+  },
+  "Volcano3Quiz3": {
+    "title": "¿Qué sostiene la giganta en su mano?",
+    "option1": "Un ramo de flores",
+    "option2": "Una cesta",
+    "option3": "Una roca volcánica",
+    "option4": "Un pan"
+  },
+  "Volcano3Quiz4": {
+    "title": "¿Qué herramienta sostiene el gigante?",
+    "option1": "Una espada",
+    "option2": "Un instrumento",
+    "option3": "Una columna de basalto",
+    "option4": "Un ramo de flores"
+  },
+  "Volcano3Quiz5": {
+    "title": "¿Cuántos árboles hay en la plaza?",
+    "option1": "3",
+    "option2": "4",
+    "option3": "5",
+    "option4": "1"
+  },
+  "Volcano3Quiz6": {
+    "title": "¿Cuántos círculos se pueden ver dibujados en la escultura?",
+    "option1": "2",
+    "option2": "3",
+    "option3": "4",
+    "option4": "5"
+  },
+  "Volcano4Quiz1": {
+    "title": "¿Cuántas columnas de basalto hay en la plaza?",
+    "option1": "10",
+    "option2": "8",
+    "option3": "6",
+    "option4": "1"
+  },
+  "Volcano4Quiz2": {
+    "title": "¿Qué cimas se pueden ver desde el mirador?",
+    "option1": "Bestrecà y Montmajor",
+    "option2": "Puigsacalm",
+    "option3": "Bassegoda",
+    "option4": "Bastiments"
+  },
+  "Volcano4Quiz3": {
+    "title": "¿Qué figura animal está representada en el mirador?",
+    "option1": "Pájaro",
+    "option2": "Caballo",
+    "option3": "Vaca",
+    "option4": "Mariposa"
+  },
+  "Volcano4Quiz4": {
+    "title": "Nombra 3 cosas que puedes ver desde aquí:",
+    "option1": "Río",
+    "option2": "Casas",
+    "option3": "Montañas",
+    "option4": "Camino"
+  },
+  "Volcano4Quiz5": {
+    "title": "¿Qué valle se observa desde el mirador?",
+    "option1": "Valle del Fluvià",
+    "option2": "Valle del Bajo",
+    "option3": "Valle de la Bianya",
+    "option4": "Valle del Ter"
+  },
+  "Volcano4Quiz6": {
+    "title": "¿Cuántos cipreses hay en la plaza?",
+    "option1": "2",
+    "option2": "4",
+    "option3": "6",
+    "option4": "1"
+  },
+  "Volcano5Quiz1": {
+    "title": "¿Cómo se llama la iglesia en el mirador?",
+    "option1": "San Salvador",
+    "option2": "San Roque",
+    "option3": "San Valentín",
+    "option4": "San Andrés"
+  },
+  "Volcano5Quiz2": {
+    "title": "¿De qué color son las marcas de camino pintadas en la pared?",
+    "option1": "Amarillo",
+    "option2": "Blanco y rojo",
+    "option3": "Verde y amarillo",
+    "option4": "Naranja"
+  },
+  "Volcano5Quiz3": {
+    "title": "¿Qué animal amante del sol se puede ver entre las rocas en la pared?",
+    "option1": "Lagarto",
+    "option2": "Mariposa",
+    "option3": "Gusano de tierra",
+    "option4": "Salamandra"
+  },
+  "Volcano5Quiz4": {
+    "title": "¿Qué hay al lado del camino?",
+    "option1": "Jardines",
+    "option2": "Edificios",
+    "option3": "Escuela",
+    "option4": "Campo de fútbol"
+  },
+  "Volcano6Quiz1": {
+    "title": "¿De dónde proviene el primer flujo de lava?",
+    "option1": "Batet",
+    "option2": "Sant Joan les Fonts",
+    "option3": "Santa Pau",
+    "option4": "Olot"
+  },
+  "Volcano6Quiz2": {
+    "title": "¿Cuál es el principal río por donde bajó el flujo de lava?",
+    "option1": "Fluvià",
+    "option2": "Ter",
+    "option3": "Muga",
+    "option4": "Onyar"
+  },
+  "Volcano6Quiz3": {
+    "title": "¿Qué dos ríos se encuentran aquí?",
+    "option1": "Fluvià y Turonell",
+    "option2": "Fluvià y Ter",
+    "option3": "Fluvià y Muga",
+    "option4": "Turonell y Muga"
+  },
+  "Volcano6Quiz4": {
+    "title": "¿Cuántos años hace que bajó el primer flujo de lava?",
+    "option1": "217,000 años",
+    "option2": "10,000 años",
+    "option3": "20,000 años",
+    "option4": "450,000 años"
+  },
+  "Volcano6Quiz5": {
+    "title": "¿Cómo se llaman los materiales transportados por el río?",
+    "option1": "Sedimentos",
+    "option2": "Bloques",
+    "option3": "Arcillas",
+    "option4": "Mármoles"
+  },
+  "Volcano6Quiz6": {
+    "title": "¿Qué tipo de vegetación hay aquí?",
+    "option1": "Bosque ribereño",
+    "option2": "Bosque de robles",
+    "option3": "Bosque de hayas",
+    "option4": "Bosque de pinos"
+  },
+  "Volcano7Quiz1": {
+    "title": "Según el Parque Natural, el acantilado es un lugar de...",
+    "option1": "Interés geológico",
+    "option2": "Interés cultural",
+    "option3": "Interés artístico",
+    "option4": "Interés histórico"
+  },
+  "Volcano7Quiz2": {
+    "title": "¿Qué provoca la erosión del acantilado?",
+    "option1": "Vegetación",
+    "option2": "Hielo y deshielo",
+    "option3": "Clima",
+    "option4": "Todas las respuestas son correctas"
+  },
+  "Volcano7Quiz3": {
+    "title": "¿Cuál es el nombre de la capa sedimentaria que separa los dos flujos de lava?",
+    "option1": "Paleosuelo",
+    "option2": "Estrato",
+    "option3": "Acantilado",
+    "option4": "Capa"
+  },
+  "Volcano7Quiz4": {
+    "title": "¿Qué edificio tenemos cerca?",
+    "option1": "Una vieja fábrica",
+    "option2": "Escuela",
+    "option3": "Ayuntamiento",
+    "option4": "Pabellón deportivo"
+  },
+  "Volcano7Quiz5": {
+    "title": "¿Cuál de estos árboles forma parte del bosque ribereño?",
+    "option1": "Sauce",
+    "option2": "Pino rojo",
+    "option3": "Roble",
+    "option4": "Palma"
+  },
+  "Volcano8Quiz1": {
+    "title": "¿A cuántos metros de profundidad crees que está el acantilado?",
+    "option1": "10",
+    "option2": "20",
+    "option3": "15",
+    "option4": "25"
+  },
+  "Volcano8Quiz2": {
+    "title": "¿Cuál es el nombre del río frente a nosotros?",
+    "option1": "Muga",
+    "option2": "Ter",
+    "option3": "Fluvià",
+    "option4": "Onyar"
+  },
+  "Volcano8Quiz3": {
+    "title": "¿A qué corresponde la capa negra en el acantilado?",
+    "option1": "Un flujo de lava",
+    "option2": "Sedimento",
+    "option3": "Suelo",
+    "option4": "Ceniza volcánica"
+  },
+  "Volcano8Quiz4": {
+    "title": "¿De qué color es la capa entre los dos flujos de lava?",
+    "option1": "Marrón",
+    "option2": "Rojo",
+    "option3": "Gris",
+    "option4": "Negro"
+  },
+  "Volcano8Quiz5": {
+    "title": "¿De qué tipo de rocas están hechas las acantilados?",
+    "option1": "Basalto",
+    "option2": "Caliza",
+    "option3": "Granito",
+    "option4": "Arenisca"
+  },
+  "Volcano9Quiz1": {
+    "title": "¿Cuál es el nombre de la cima a la derecha?",
+    "option1": "Puigsacalm",
+    "option2": "Montmajor",
+    "option3": "Bassegoda",
+    "option4": "Bestrecà"
+  },
+  "Volcano9Quiz2": {
+    "title": "¿A qué cadena montañosa pertenece el Puigsacalm?",
+    "option1": "Guilleries",
+    "option2": "Pirineos",
+    "option3": "Alpes",
+    "option4": "Montseny"
+  },
+  "Volcano9Quiz3": {
+    "title": "¿Cuál es la actividad principal en la zona?",
+    "option1": "Senderismo",
+    "option2": "Esquí",
+    "option3": "Pesca",
+    "option4": "Caza"
+  },
+  "Volcano9Quiz4": {
+    "title": "¿Qué tipo de vegetación predomina aquí?",
+    "option1": "Bosque mediterráneo",
+    "option2": "Tundra",
+    "option3": "Bosque alpino",
+    "option4": "Sabana"
+  },
+  "Volcano9Quiz5": {
+    "title": "¿Qué animal se puede encontrar comúnmente aquí?",
+    "option1": "Jabalí",
+    "option2": "Oso",
+    "option3": "Lobo",
+    "option4": "Ciervo"
+  }
+}
