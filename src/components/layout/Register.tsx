@@ -119,7 +119,7 @@ const Register = () => {
           </div>
           <div>
             <h1 className="mb-2 text-primary">{t("field5")}*</h1>
-            <CustomPhoneInput
+            {/* <CustomPhoneInput
               value={formData.phone}
               onChange={(e) => {
                 const value = e.target ? e.target.value : e;
@@ -127,7 +127,7 @@ const Register = () => {
                   handleChange("phone", value);
                 }
               }}
-            />
+            /> */}
           </div>
           <div>
             <h1 className="mb-2 text-primary">{t("field6")}*</h1>
